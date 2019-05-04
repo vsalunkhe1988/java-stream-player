@@ -12,7 +12,7 @@ Java Audio Controller Library with (seek,start,stop,pause,play,restart features)
 
 This is a continuation and full improvement of [JavaZoom BasicPlayer](http://www.javazoom.net/jlgui/api.html)
 
-### What audio formats it supports?
+### What audio formats it supports#
 It supports **WAV, AU, AIFF, MP3, OGG VORBIS, FLAC, MONKEY's AUDIO and SPEEX audio formats** , using some external libraries . Although more will be added in future releases.
 
 ## --Maven Build--
